@@ -6,4 +6,4 @@ O componente se comunica com a API de rotas CRUD fazendo a interação entre a a
 
 ### Video de funcionamento:
 
-![abc](https://im3.ezgif.com/tmp/ezgif-3-fd867249d592.gif)
+![abc](reactJS.gif)
